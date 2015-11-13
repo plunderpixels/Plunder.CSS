@@ -1,0 +1,44 @@
+[class*='p-btn'] {
+    margin: 3px 0;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 2px;
+    border: none;
+    -webkit-transition: .3s ease;
+    transition: .3s ease;
+    cursor: auto;
+    outline: none;
+}
+
+.p-btn {
+    background: #FF9900;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 2px;
+    border: none;
+}
+
+.p-btn:hover {
+    background: #ffc368;
+}
+
+.p-btn-dead {
+    background: #d6d6d6;
+    color: #fff;
+    cursor: not-allowed;
+}
+
+.p-btn-active {
+    background: #ffc368;
+    color: #fff;
+}
+
+.p-btn-prime {
+    background: #016ABC;
+    color: #fff;
+}
+
+.p-btn-prime:hover {
+    background: #0087f0;
+}
