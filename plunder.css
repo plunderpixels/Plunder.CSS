@@ -154,7 +154,7 @@ body {
     margin-left: 8.33%
 }
 
-[class*='mobi-pco-'] {
+[class*='mobile-pco-'] {
     display: none;
 }
 
@@ -164,67 +164,67 @@ only screen and (max-width: 767px) {
         width: 100%;
         float: none;
     }
-    [class*='mobi-pco-'] {
+    [class*='mobile-pco-'] {
         float: left;
         display: block;
     }
-    .mobi-pco-1-1 {
+    .mobile-pco-1-1 {
         width: 100%;
     }
-    .mobi-pco-2-3,
-    .mobi-pco-8-12 {
+    .mobile-pco-2-3,
+    .mobile-pco-8-12 {
         width: 66.66%;
     }
-    .mobi-pco-1-2,
-    .mobi-pco-6-12 {
+    .mobile-pco-1-2,
+    .mobile-pco-6-12 {
         width: 50%;
     }
-    .mobi-pco-1-3,
-    .mobi-pco-4-12 {
+    .mobile-pco-1-3,
+    .mobile-pco-4-12 {
         width: 33.33%;
     }
-    .mobi-pco-1-4,
-    .mobi-pco-3-12 {
+    .mobile-pco-1-4,
+    .mobile-pco-3-12 {
         width: 25%;
     }
-    .mobi-pco-1-5 {
+    .mobile-pco-1-5 {
         width: 20%;
     }
-    .mobi-pco-1-6,
-    .mobi-pco-2-12 {
+    .mobile-pco-1-6,
+    .mobile-pco-2-12 {
         width: 16.667%;
     }
-    .mobi-pco-1-7 {
+    .mobile-pco-1-7 {
         width: 14.28%;
     }
-    .mobi-pco-1-8 {
+    .mobile-pco-1-8 {
         width: 12.5%;
     }
-    .mobi-pco-1-9 {
+    .mobile-pco-1-9 {
         width: 11.1%;
     }
-    .mobi-pco-1-10 {
+    .mobile-pco-1-10 {
         width: 10%;
     }
-    .mobi-pco-1-11 {
+    .mobile-pco-1-11 {
         width: 9.09%;
     }
-    .mobi-pco-1-12 {
+    .mobile-pco-1-12 {
         width: 8.33%
     }
-    .mobi-pco-11-12 {
+    .mobile-pco-11-12 {
         width: 91.66%
     }
-    .mobi-pco-10-12 {
+    .mobile-pco-10-12 {
         width: 83.333%;
     }
-    .mobi-pco-9-12 {
+    .mobile-pco-9-12 {
         width: 75%;
     }
-    .mobi-pco-5-12 {
+    .mobile-pco-5-12 {
         width: 41.66%;
     }
-    .mobi-pco-7-12 {
+    .mobile-pco-7-12 {
         width: 58.33%
     }
     .hide-on-mobile {
