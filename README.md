@@ -15,6 +15,9 @@ Introducing [Plunder.CSS](http://plundercss.io), a lightweight responsive grid a
 @import url('http://cdn.plunderpixels.com/libs/css/plundercss/0.1.1/plunder.min.css');
 ```
 
+### Get Started
+Please visit the [website](http://plundercss.io) for instructions on how to use Plunder.CSS.
+
 ### Current Features
 
 *   Easy to customize 12-Column grid.
