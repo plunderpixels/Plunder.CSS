@@ -7,12 +7,12 @@ Introducing [Plunder.CSS](http://plundercss.io), a lightweight responsive grid a
 **CDN HTML Link:**
 
 ```html
-<link rel="stylesheet" href="http://cdn.plunderpixels.com/libs/css/plundercss/0.1.1/plunder.min.css">
+<link rel="stylesheet" href="http://cdn.plunderpixels.com/libs/css/plundercss/0.1.2/plunder.min.css">
 ```
 
 **CDN CSS Link**
 ```css
-@import url('http://cdn.plunderpixels.com/libs/css/plundercss/0.1.1/plunder.min.css');
+@import url('http://cdn.plunderpixels.com/libs/css/plundercss/0.1.2/plunder.min.css');
 ```
 
 ### Get Started
